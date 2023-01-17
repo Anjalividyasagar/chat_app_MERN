@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+.App{
+    min-height: 100vh;
+    display:flex;
+    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-pinky.png");
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(136,136,136,0.281);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
