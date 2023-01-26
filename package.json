@@ -2,7 +2,7 @@
   "name": "talk-a-tive",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": " ./backend/server.js",
   "scripts": {
     "start": "nodemon backend/server.js"
   },
